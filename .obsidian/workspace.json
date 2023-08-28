@@ -11,8 +11,12 @@
             "id": "9e1a43cc6574018d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/GitHub.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GitHub/GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GitHub/GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GitHub/GitHub.md"
+              }
             }
           }
         ]
@@ -135,9 +143,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9e1a43cc6574018d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pasted image 20230827201226.png",
+    "MicroService/Service.md",
+    "MicroService/Repository.md",
+    "MicroService/Micro Service.md",
+    "MicroService/Controller.md",
+    "MicroService/Actuator.md",
+    "MicroService",
+    "Inbox/My first note.md",
+    "Inbox/chapter2.md",
+    "Inbox/Basics of Obsidian.md",
+    "Inbox",
+    "GitHub/GitHub.md",
+    "GitHub",
+    "Excalidraw/Micro Service 2023-08-26 00.37.59.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-27 15.35.16.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-27 09.14.48.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-26 22.38.35.excalidraw.md",
+    "Excalidraw/Component's class and template 2023-08-24 00.45.23.excalidraw.md",
+    "Excalidraw",
+    "Angular 14/Excalidraw/inter component.md",
+    "Angular 14/Excalidraw/cowsay.md",
+    "Angular 14/Excalidraw/component 1.md",
+    "Angular 14/Component Interaction/Components.md",
+    "Angular 14/Component Interaction/Component's class and template.md",
+    "Angular 14/Micro Frontend.md",
+    "Angular 14/Introduction.md",
+    "Angular 14/Excalidraw",
+    "Angular 14/Component Interaction",
+    "Angular 14"
+  ]
 }

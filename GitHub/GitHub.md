@@ -10,13 +10,16 @@ modify => add => commit => push
 
 git fetch => bring all changes of know branches to local git repository 
 
+
+### Normally How we do merge. 
 git checkout main;
 git merge suresh;
 git push origin main;
 
 
-what is this fun!!
+### Initiate Git
+git init
+git branch -M main (change name of master)
+git remote add origin https://github.com/tharsikan/ObsidianGit.git (If origin is already in remote)
 
-okay okay
 
-thake this pri
